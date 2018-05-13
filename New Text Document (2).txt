@@ -1,0 +1,17 @@
+.* in matlab
+uint8 for images (256 discrete colour. buts why??)
+types of image :- binary,grayscale image(unit8),
+grayscale vs binary
+impixelinfo()
+colon operator
+
+
+a=zeros(100)
+edge command  (sobel,canny,prewitt)
+
+########number plate recognition
+morfological operations
+imdilation :- 
+imerode
+
+regionprops

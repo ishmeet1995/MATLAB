@@ -1,0 +1,3 @@
+https://in.mathworks.com/matlabcentral/answers/151131-how-to-generate-10-second-delay-in-matlab-progam 
+
+https://in.mathworks.com/help/matlab/ref/audiowrite.html
